@@ -1,0 +1,66 @@
+D:\Program Files (x86)\repos\GameApi\GameApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Program Files (x86)\repos\GameApi\GameApi\bin\Debug\net6.0\appsettings.json
+D:\Program Files (x86)\repos\GameApi\GameApi\bin\Debug\net6.0\GameApi.exe
+D:\Program Files (x86)\repos\GameApi\GameApi\bin\Debug\net6.0\GameApi.deps.json
+D:\Program Files (x86)\repos\GameApi\GameApi\bin\Debug\net6.0\GameApi.runtimeconfig.json
+D:\Program Files (x86)\repos\GameApi\GameApi\bin\Debug\net6.0\GameApi.dll
+D:\Program Files (x86)\repos\GameApi\GameApi\bin\Debug\net6.0\GameApi.pdb
+D:\Program Files (x86)\repos\GameApi\GameApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Program Files (x86)\repos\GameApi\GameApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Program Files (x86)\repos\GameApi\GameApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Program Files (x86)\repos\GameApi\GameApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Program Files (x86)\repos\GameApi\GameApi\obj\Debug\net6.0\GameApi.csproj.AssemblyReference.cache
+D:\Program Files (x86)\repos\GameApi\GameApi\obj\Debug\net6.0\GameApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files (x86)\repos\GameApi\GameApi\obj\Debug\net6.0\GameApi.AssemblyInfoInputs.cache
+D:\Program Files (x86)\repos\GameApi\GameApi\obj\Debug\net6.0\GameApi.AssemblyInfo.cs
+D:\Program Files (x86)\repos\GameApi\GameApi\obj\Debug\net6.0\GameApi.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\repos\GameApi\GameApi\obj\Debug\net6.0\GameApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Program Files (x86)\repos\GameApi\GameApi\obj\Debug\net6.0\GameApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Program Files (x86)\repos\GameApi\GameApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Program Files (x86)\repos\GameApi\GameApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Program Files (x86)\repos\GameApi\GameApi\obj\Debug\net6.0\scopedcss\bundle\GameApi.styles.css
+D:\Program Files (x86)\repos\GameApi\GameApi\obj\Debug\net6.0\GameApi.csproj.CopyComplete
+D:\Program Files (x86)\repos\GameApi\GameApi\obj\Debug\net6.0\GameApi.dll
+D:\Program Files (x86)\repos\GameApi\GameApi\obj\Debug\net6.0\refint\GameApi.dll
+D:\Program Files (x86)\repos\GameApi\GameApi\obj\Debug\net6.0\GameApi.pdb
+D:\Program Files (x86)\repos\GameApi\GameApi\obj\Debug\net6.0\GameApi.genruntimeconfig.cache
+D:\Program Files (x86)\repos\GameApi\GameApi\obj\Debug\net6.0\ref\GameApi.dll
+D:\Program Files (x86)\repos\GameApi\GameApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Program Files (x86)\repos\GameApi\GameApi\bin\Debug\net6.0\OpenDotaApi.dll
+D:\Program Files (x86)\repos\GameApi\GameApi\bin\Debug\net6.0\RestSharp.dll
+D:\Program Files (x86)\repos\GameApi\GameApi\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\Program Files (x86)\repos\GameApi\GameApi\bin\Debug\net6.0\System.Web.Http.dll
+D:\Program Files (x86)\repos\GameApi\GameApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Новая папка\GameApi\GameApi\bin\Debug\net6.0\appsettings.Development.json
+E:\Новая папка\GameApi\GameApi\bin\Debug\net6.0\appsettings.json
+E:\Новая папка\GameApi\GameApi\bin\Debug\net6.0\GameApi.exe
+E:\Новая папка\GameApi\GameApi\bin\Debug\net6.0\GameApi.deps.json
+E:\Новая папка\GameApi\GameApi\bin\Debug\net6.0\GameApi.runtimeconfig.json
+E:\Новая папка\GameApi\GameApi\bin\Debug\net6.0\GameApi.dll
+E:\Новая папка\GameApi\GameApi\bin\Debug\net6.0\GameApi.pdb
+E:\Новая папка\GameApi\GameApi\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+E:\Новая папка\GameApi\GameApi\bin\Debug\net6.0\System.Web.Http.dll
+E:\Новая папка\GameApi\GameApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Новая папка\GameApi\GameApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Новая папка\GameApi\GameApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Новая папка\GameApi\GameApi\bin\Debug\net6.0\OpenDotaApi.dll
+E:\Новая папка\GameApi\GameApi\bin\Debug\net6.0\RestSharp.dll
+E:\Новая папка\GameApi\GameApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Новая папка\GameApi\GameApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Новая папка\GameApi\GameApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Новая папка\GameApi\GameApi\obj\Debug\net6.0\GameApi.csproj.AssemblyReference.cache
+E:\Новая папка\GameApi\GameApi\obj\Debug\net6.0\GameApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Новая папка\GameApi\GameApi\obj\Debug\net6.0\GameApi.AssemblyInfoInputs.cache
+E:\Новая папка\GameApi\GameApi\obj\Debug\net6.0\GameApi.AssemblyInfo.cs
+E:\Новая папка\GameApi\GameApi\obj\Debug\net6.0\GameApi.csproj.CoreCompileInputs.cache
+E:\Новая папка\GameApi\GameApi\obj\Debug\net6.0\GameApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Новая папка\GameApi\GameApi\obj\Debug\net6.0\GameApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Новая папка\GameApi\GameApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\Новая папка\GameApi\GameApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\Новая папка\GameApi\GameApi\obj\Debug\net6.0\scopedcss\bundle\GameApi.styles.css
+E:\Новая папка\GameApi\GameApi\obj\Debug\net6.0\GameApi.csproj.CopyComplete
+E:\Новая папка\GameApi\GameApi\obj\Debug\net6.0\GameApi.dll
+E:\Новая папка\GameApi\GameApi\obj\Debug\net6.0\refint\GameApi.dll
+E:\Новая папка\GameApi\GameApi\obj\Debug\net6.0\GameApi.pdb
+E:\Новая папка\GameApi\GameApi\obj\Debug\net6.0\GameApi.genruntimeconfig.cache
+E:\Новая папка\GameApi\GameApi\obj\Debug\net6.0\ref\GameApi.dll
